@@ -1,1 +1,2 @@
 -percorso immagini sul databse
+-immagini di logo
